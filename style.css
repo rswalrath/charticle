@@ -17,8 +17,8 @@
 }
 
 #head {
-  padding-top: 125px;
-  padding-bottom: 85px;
+  padding-top: 140px;
+  padding-bottom: 100px;
   text-align: center;
   background-color: #326899;
   color: #fff;
@@ -37,11 +37,10 @@ p {
 }
 
 #bullying {
-  padding: 65px 0px 65px 0px;
+  padding: 80px 0px 80px 0px;
+  background-color: #4abce8;
+  color: white;
   text-align: center;
-  background-color: #4abce8
-  color: #fff;
-  color: #fff;
 }
 
 #bullying h2 {
@@ -53,7 +52,7 @@ p {
 }
 
 #school {
-  padding: 65px 0px 65px 0px;
+  padding: 80px 0px 80px 0px;
   text-align: center;
   background-color: #e3e3e3;
   color: #3b4b53;
@@ -68,7 +67,7 @@ p {
 }
 
 #juvie {
-  padding: 65px 0px 65px 0px;
+  padding: 80px 0px 80px 0px;
   text-align: center;
   background-color: #a3daf6;
   color: #3b4b53;
@@ -83,7 +82,7 @@ p {
 }
 
 #homelessness {
-  padding: 65px 0px 65px 0px;
+  padding: 80px 0px 80px 0px;
   text-align: center;
   background-color: #4abce8;
   color: #fff;
@@ -98,7 +97,7 @@ p {
 }
 
 #suicide {
-  padding: 65px 0px 65px 0px;
+  padding: 80px 0px 80px 0px;
   text-align: center;
   background-color: #e3e3e3;
   color: #3b4b53;
@@ -113,7 +112,7 @@ p {
 }
 
 #sources {
-  padding: 65px 0px 65px 0px;
+  padding: 80px 0px 80px 0px;
   text-align: center;
   background-color: #326899;
   color: #fff;
