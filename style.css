@@ -31,3 +31,102 @@
 #head h3 {
   font-family: 'Raleway', sans-serif;
 }
+
+p {
+  font-size: 16px
+}
+
+#bullying {
+  padding: 65px 0px 65px 0px;
+  text-align: center;
+  background-color: #4abce8
+  color: #fff;
+  color: #fff;
+}
+
+#bullying h2 {
+  font-family: 'Roboto Slab', serif;
+}
+
+#bullying p {
+  font-family: 'Raleway', sans-serif;
+}
+
+#school {
+  padding: 65px 0px 65px 0px;
+  text-align: center;
+  background-color: #e3e3e3;
+  color: #3b4b53;
+}
+
+#school h2 {
+  font-family: 'Roboto Slab', serif;
+}
+
+#school p {
+  font-family: 'Raleway', sans-serif;
+}
+
+#juvie {
+  padding: 65px 0px 65px 0px;
+  text-align: center;
+  background-color: #a3daf6;
+  color: #3b4b53;
+}
+
+#juvie img {
+  margin-bottom: 20px;
+}
+
+#juvie p {
+  font-family: 'Raleway', sans-serif;
+}
+
+#homelessness {
+  padding: 65px 0px 65px 0px;
+  text-align: center;
+  background-color: #4abce8;
+  color: #fff;
+}
+
+#homelessness h2 {
+  font-family: 'Roboto Slab', serif;
+}
+
+#homelessness p {
+  font-family: 'Raleway', sans-serif;
+}
+
+#suicide {
+  padding: 65px 0px 65px 0px;
+  text-align: center;
+  background-color: #e3e3e3;
+  color: #3b4b53;
+}
+
+#suicide h2 {
+  font-family: 'Roboto Slab', serif;
+}
+
+#suicide p {
+  font-family: 'Raleway', sans-serif;
+}
+
+#sources {
+  padding: 65px 0px 65px 0px;
+  text-align: center;
+  background-color: #326899;
+  color: #fff;
+}
+
+#sources h2 {
+  font-family: 'Roboto Slab', serif;
+}
+
+#sources p {
+  font-family: 'Raleway', sans-serif;
+}
+
+#sources a {
+  color: #fff;
+}
