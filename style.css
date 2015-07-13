@@ -1,0 +1,33 @@
+.nav a {
+  color: #5a5a5a;
+  font-size: 14px;
+  padding: 14px 10px;
+  text-transform: uppercase;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+}
+
+.navbar-brand {
+  color: #5a5a5a;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+  font-family: 'Raleway', sans-serif;
+}
+
+#head {
+  padding-top: 125px;
+  padding-bottom: 85px;
+  text-align: center;
+  background-color: #326899;
+  color: #fff;
+}
+
+#head h1 {
+  font-family: 'Roboto Slab', serif;
+}
+
+#head h3 {
+  font-family: 'Raleway', sans-serif;
+}
