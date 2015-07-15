@@ -26,6 +26,7 @@
 
 #head h1 {
   font-family: 'Roboto Slab', serif;
+  text-transform: uppercase;
 }
 
 #head h3 {
@@ -112,7 +113,7 @@ p {
 }
 
 #sources {
-  padding: 80px 0px 80px 0px;
+  padding: 40px 0px 40px 0px;
   text-align: center;
   background-color: #326899;
   color: #fff;
